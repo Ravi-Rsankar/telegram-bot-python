@@ -2,13 +2,13 @@
 
 ## Getting Started with DogBot
 
-This python telegram bot which retrieves a dog image from `https://random.dog/woof.json`
+This python telegram bot which retrieves a dog image :dog2: from `https://random.dog/woof.json`
 
 It displays the image in the telegram chat on passing the `/bop` command
 
 ### Setup
 
-#### :dog Create a new bot in BotFather
+#### :feet: Create a new bot in BotFather
 
 Register you bot in the telegram BotFather
 
@@ -18,13 +18,11 @@ To get the updates of the bot go to the URL `https://api.telegram.org/bot<botTok
 
 This URL returns a JSON response including the chat Ids of the telegram groups to which your bot is added and the conversations in that group
 
-#### :dog Install the library
+#### :feet: Install the library
 
 ```
 pip3 install python-telegram-bot
 ```
-
-
 
 ### How to test
 
@@ -36,9 +34,6 @@ After running the dogbot python file using `python dogbot.py`
 
 - You should be getting a dog image
 
+### Source
 
-
-### Source 
-
-[freecodecamp]: https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/	"freecodecamp"
-
+[freecodecamp](https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/)

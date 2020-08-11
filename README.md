@@ -24,9 +24,13 @@ This URL returns a JSON response including the chat Ids of the telegram groups t
 pip3 install python-telegram-bot
 ```
 
+#### :feet: Run the Python script
+
+Run the dogbot.py python file `python dogbot.py`
+
 ### How to test
 
-After running the dogbot python file using `python dogbot.py`
+After running the dogbot python file
 
 - Go to the group where the bot is added and whose chat Id have been added in the code.
 

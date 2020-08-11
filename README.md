@@ -40,5 +40,5 @@ After running the dogbot python file using `python dogbot.py`
 
 ### Source 
 
-[freecodecamp]: https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/
+[freecodecamp]: https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/	"freecodecamp"
 
